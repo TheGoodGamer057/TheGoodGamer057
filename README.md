@@ -1,10 +1,7 @@
-## hello there! im tgg
+## hello there! im tcb
 
-- 🔭 im currently working on a love2d game that probably will crash
-- 🌱 im currently learning how to script in love2d
-- 👯 im looking to collaborate on no projects
-- 🤔 im looking for help with no projects also
-- 💬 ask me about the square root of 9
-- 📫 how to reach me: roblox or guilded
-- 😄 pronouns: he/him
-- ⚡ a fun fact: im a kid who is still learning love2d
+i like coding nd stuff
+no need to contact me thru my phone number which isn't public, just probably friend me on mc essential smh
+i am cool
+i love lua
+more stuff that i'm lazy to put here 
