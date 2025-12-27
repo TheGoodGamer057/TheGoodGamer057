@@ -8,4 +8,15 @@ i am cool
 
 i love lua
 
-more stuff that i'm lazy to put here 
+[LAZINESS STOPPED, STARTING README.MD EDIT...]
+[MOTIVATION ACTIVATED.]
+
+i like modding minecraft
+
+im tryna learn lwjgl 3.4.0 nightly
+
+i like minecraft and gta
+
+i like beta minecraft
+
+i like babric
